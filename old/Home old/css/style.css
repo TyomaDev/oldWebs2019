@@ -1,0 +1,201 @@
+ /*  font-weight:число толщина текста 100 200 300 400 500 600; */  
+ 
+body {
+	width: 1200px;
+	margin: 0 auto;	/*1 отступ вверх */
+}
+
+div {
+	float: left;
+	box-sizing: border-box ; 
+}
+
+p , a, h1, h2, h3, h4, h5, h6 {
+	padding: 0 ;	
+	margin: 0 ;	
+	text-decoration:none ;	
+	font-family: 'Poppins', sans-serif;
+}
+
+.all{
+	width: 1200px;
+}
+
+.menu{
+	width: 1200px;
+	height: 74px;
+	background: url(../img/line.jpg);
+}
+
+.logo{
+	width: 470px;
+	margin-left: 130px;
+}
+
+.img-logo{
+	width: 59px;
+	height: 37px;
+	margin-top: 18px;
+	
+}
+
+.podbl-text-logo{
+	width: 201px;
+}
+
+.name-logo{
+	width: 191px;
+	height: 21px;
+	margin-top: 20px;
+	margin-left: 5px; 
+}
+
+.text-logo-menu{
+	color: #191919;
+	font-weight: 600;
+	font-size: 22px;
+}
+
+
+.com-menu{
+	width: 206px;
+	height: 9px;
+	margin-top: 2px;
+	margin-left: 5px; 
+}
+
+.text-com-menu{
+	color: #949494;
+	font-weight: 500;
+	font-size: 10px;
+}
+
+.but-menu{
+	width: 600px;
+	padding-left: 110px;
+}
+
+.but_self-menu{	
+	height: 40px;
+	text-align: center;
+	margin-left: 5px;
+	margin-top: 18px;
+}
+
+.but_self-menu-text{
+	color: #000;
+	font-size: 13px;
+	background: rgba(255, 255, 255, 0);
+	padding: 6px 12px;
+	border-radius: 5px;
+	
+}
+
+.but_self-menu-text:hover{
+	color: #fff;
+	font-size: 13px;
+	background: #000;
+	padding: 6px 12px;
+	border-radius: 5px;
+}
+
+.gl-1{
+	width: 1200px;
+	height: 633px;
+	background: url(../img/fon.jpg)
+}
+
+.gl-b-1{
+	width: 630px;
+	margin-top: 105px;
+	margin-left: 130px;
+}
+
+.fst_txt-gl-b-1{
+	font-size: 95px;
+	line-height: 90px;
+	color: #dadadc;
+	margin-right: 40px;
+}
+
+.sec_txt-gl-b-1{
+	margin-top: -45px;
+	font-size: 150px;	
+	color: #fff;
+	margin-right: 40px;
+}
+
+.thd_txt-gl-b-1{
+	font-size: 19px;
+	color: #fdfffe;
+	margin-top: -35px;
+}
+
+.but-gl-b-1{
+	color: #000;
+	font-size: 13px;
+	font-weight: 600;
+	background: #ffcc00;
+	padding: 8px 12px;
+	border-radius: 5px;	
+	margin-right: 4px; 
+	margin-top: 10px;
+}
+
+.but-gl-b-1:hover{
+	color: #9c9c9c;
+	background: #262626;
+}
+
+.gl-2{
+	width: 1200px;
+	height: 328px;
+	background: #f1f1f1;
+	padding-left: 85px;
+}
+
+.offers{
+	width: 300px;
+	height: 195px;
+	margin-top: 85px;
+	margin-left: 30px;
+}
+
+.title_of{
+	width: 220px;
+	height: 40px;	
+	margin-bottom: 20px;
+}
+
+.txt_title_of{
+	font-size: 40px;
+	font-weight: 700;
+	color: #40444f;
+}
+
+.grey_bl_gl2{
+	width: 300px;
+	height: 2px;
+	background: #dcdcdc;
+}
+
+.ofs_com{
+	height: 75px;
+	width: 300px;
+	font-size: 11px;
+	color: #9e9595;
+	margin-top: 15px;
+}
+
+.read_more{
+	height: 15px;
+	width: 70px;
+	margin-top: 20px;
+}
+
+.rm_txt{
+	font-size: 13px;
+	text-decoration: underline;
+	font-family: cursive;
+	color: #000;
+}

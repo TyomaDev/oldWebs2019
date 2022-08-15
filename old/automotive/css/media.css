@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+    .Gl-block-1-1{
+        display: none;
+    }
+    .Gl-block-1{
+        height: 100vh;
+        
+    }
+    .Gl-block-1-fon{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .obr-sv{
+        margin: 0;
+    }
+    .Gl-block-1-2{
+        padding: 0;
+    }
+}

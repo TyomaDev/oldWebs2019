@@ -1,0 +1,148 @@
+
+
+@media screen and (max-width: 1640px) {
+    /* bl1 */
+    .gl-1{
+        width: 100%;
+        height: 65vh;
+        background: url(../img/fon2.jpg) no-repeat;
+        background-size: cover;
+    }
+}
+@media screen and (max-height: 800px) and (max-width: 1440px) {
+    /* bl1 */
+    .gl-1{
+        height: 100vh;
+    }
+}
+@media screen and (max-height: 800px) and (max-width: 1179px) {
+    /* bl1 */
+    .gl-1{
+        background: url(../img/fon3.jpg) no-repeat;
+        background-size: cover;
+    }
+}
+
+@media screen and (min-height: 960px) and (max-width: 1070px) {
+    /* bl1 */
+    .gl-1{
+        background: url(../img/onlyfon.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        
+    }
+
+    .gl-b-1{
+        width: 100%;
+        margin: 0 ;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 10rem auto;
+    }
+    .gl-b-1>*{
+        margin: 0;
+    }
+    .gl-b-1-br{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* bl1 */
+    .gl-1{
+        background: url(../img/onlyfon.png) no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        
+    }
+
+    .gl-b-1{
+        width: 100%;
+        margin: 0 ;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 10rem auto;
+    }
+    .gl-b-1>*{
+        margin: 0;
+    }
+    .gl-b-1-br{
+        display: none;
+    }
+
+    .thd_txt-gl-b-1{
+        font-size: 25px;
+    }
+    .knopki{
+        display: flex;
+        flex-flow: column-reverse;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+    }
+    .knopki>a>div{
+        margin: 0.5rem 0;
+        font-size: 26px;
+        padding: 12px 24px;
+    }
+    /* bl2 */
+    .offers{
+        width: 60%;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem auto;
+        text-align: left;
+    }
+    .offers>*{
+        width: 100%;
+    }
+    .ofs_com>p{
+        font-size: 15px;
+    }
+
+}
+@media screen and (max-width: 1024px) {
+    
+    /* bl2 */
+    .offers{
+        width: 60%;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem auto;
+        text-align: left;
+    }
+    .offers>*{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 550px) {
+    
+   
+    .thd_txt-gl-b-1{
+        font-size: 22px;
+    }
+
+    .knopki>a>div{
+        margin: 0.5rem 0;
+        font-size: 18px;
+        padding: 12px 24px;
+    }
+}
+

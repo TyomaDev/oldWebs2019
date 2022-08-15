@@ -1,0 +1,194 @@
+﻿
+
+p , a, h1, h2, h3, h4, h5, h6 {
+	padding: 0 ;	
+	margin: 0 ;	
+	text-decoration:none ;	
+}
+
+.sec-block-1{
+	background-color: #fff;
+	
+}
+
+.logo{
+	padding: 30px;
+}
+
+.text-menu{
+	color: #2d394c;
+	font-size: 16px;
+	padding: 30px;
+	margin-left: 15px;
+}
+
+.tm1{
+	margin-left: 15px;
+	color: #79818d;
+}
+
+.sec-block-2{
+	background: #62a6d7;
+	background-size: 100%;
+}
+
+.banner-menu{
+	margin: 225px 0px;
+	
+}
+
+.banner-menu-1{
+	font-size: 52px;
+	color: #f7f6f2;
+	line-height: 1.5;
+
+}
+
+.banner-menu-2{
+	font-size: 24px;
+	color: #f7f6f2;
+	padding-top: 30px;
+}
+
+.banner-menu-3{
+	color: #f7f6f2;
+	padding-top: 40px; 
+}
+
+.span-BAN-free{
+	padding: 10px;
+	background-color: #ffce55;
+	border-radius: 7px;
+}
+
+.ban-input-for-otstyp{
+	margin-top: 30px;
+}
+
+.banner-menu-4{
+	padding: 15px 240px 15px 30px; 	
+	background: #fff;
+	color: #bdc2c8;
+	border-radius: 7px;
+	
+}
+
+.banner-menu-5{
+	background: #77c444;
+	border: none;
+	color: #fff;
+	padding: 15px 25px;
+	border-radius: 7px;
+}
+
+.sec-block-3{
+	background: #f8f8f8;
+}
+
+.gl3{
+	padding: 50px 0px;
+}
+
+.ppp-whyusss{
+	font-size: 50px;
+	text-align: center;
+	padding: 25PX;
+	font-weight: bold;
+	margin: 100px 0px;
+}
+
+.block-5{
+	margin-top: 50px;
+}
+
+.sec-block-6234{
+	background: #f6f6f7;
+}
+
+.blockwhithtextWDF{
+	margin: 25px;
+}
+
+.h5WDF{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.pWDF{
+	color: #9499a2;
+}
+
+.rhdjhjf{
+	font-size: 50px;
+	text-align: center;
+	padding: 150PX 0px;
+	font-weight: bold;
+
+}
+
+.sdfhdfjh{
+	font-weight: bold;
+	font-size: 25px;
+	
+}
+
+.gsdsg{
+	color: #9499a2;
+	margin-left: 25px;
+}
+
+.gsdsg:hover{
+	color: #fff;
+	border-radius: 30px;
+	background-color: #62a6d7;
+}
+
+.dfhfdgj{
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+.title6bl{
+	font-size: 50px;
+	text-align: center;
+	padding: 25PX;
+	font-weight: bold;
+	margin-top: 100px;
+}
+
+.titleunder6bl{
+	font-size: 24px;
+	text-align: center;
+	margin: 0px 0px 30px 250px;
+}
+
+.banner-menu-6{
+	padding: 20px 245px 20px 35px; 	
+	background: #fff;
+	color: #bdc2c8;
+	border-radius: 7px;
+	margin-left: 120px;
+	
+}
+
+.banner-menu-7{
+	background: #77c444;
+	border: none;
+	color: #fff;
+	padding: 20px 30px;
+	border-radius: 7px;
+	margin-left: 25px;
+}
+
+.inputnotend{
+	margin-bottom: 100px;
+	margin-top: 25px; 
+}
+
+.logo2{
+	margin-top: 25px;
+}
+
+.sec-block-7{
+	background: #f9f9f9;
+}
