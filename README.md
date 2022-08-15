@@ -1,7 +1,8 @@
-# My first sites which I found.
+# A1 web develop
+
 
 (EN)
-
+That's my first sites which I found.
 I did them in 2019 and they had some common mistakes (nevertheless I redacted a few defects like oX-scrolling and really poor adaptation but i tried not to change it a lot)
 
 I guess I need notice, that it is NOT my UI-design and I just copped free templates with a study goal.
